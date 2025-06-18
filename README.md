@@ -35,4 +35,4 @@
 
 ## 致谢
 
-[https://anti-debug.checkpoint.com/]("anti-debug", anti-debug)提供的大部分反反调试知识与源码
+[checkpoint](https://anti-debug.checkpoint.com/)提供的大部分反反调试知识与源码
